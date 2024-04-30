@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/img_background">
+        <file>bg_0.webp</file>
+        <file>bg_black.jpg</file>
+        <file>bg_blue.jpg</file>
+        <file>bg_green.jpg</file>
+        <file>bg_main.jpg</file>
+        <file>scoreBoard2.png</file>
+        <file>scoreBoard1.png</file>
+        <file>scoreBoard3.png</file>
+    </qresource>
+    <qresource prefix="/img_widgetIcon">
+        <file>widget_icon.webp</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>eat_voice.wav</file>
+        <file>bg_music.wav</file>
+    </qresource>
+    <qresource prefix="/reward">
+        <file>reward.png</file>
+        <file>bonus.png</file>
+    </qresource>
+</RCC>
